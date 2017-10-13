@@ -6,6 +6,9 @@ __pycache__/
 # ignoring the data folder
 data/
 
+# ignoring the images folder
+images/
+
 # C extensions
 *.so
 
